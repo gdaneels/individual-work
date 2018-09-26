@@ -3,3 +3,5 @@
 * network activity
 * remotes
 * fetch/push
+* exercises
+* automated testing
